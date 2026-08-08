@@ -7,7 +7,8 @@ Prompt Evaluation Pipeline Pro+ is a production-inspired AI operations platform 
 This project demonstrates practical capabilities in Prompt Engineering, LLMOps, analytics dashboards, AI quality measurement, experimentation workflows, and deployment of user-facing GenAI tools.
 
 🌐 **Live Demo**
-http://localhost:8501/
+
+https://prompt-evaluation-pipeline-pro-dgrt6d942atlyovkzhfyrd.streamlit.app/
 
 ---
 
